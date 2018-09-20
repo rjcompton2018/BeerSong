@@ -6,4 +6,4 @@ and remote repositories in general.
 
 At the end, this program should sing the '99 Bottles of
 Beer on the Wall Song' to completion. If it does not, there is
-something sincerely wrong.
+something sincerely wrong. It's all good.
